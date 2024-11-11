@@ -15,14 +15,14 @@ public class MathTest {
       System.out.printf("Math.log(Math.E) = %f%n", Math.log(Math.E));
       System.out.printf("Math.log(Math.E * Math.E) = %f%n", 
          Math.log(Math.E * Math.E));
-      System.out.printf("Math.max(2.3, 11.7) = %f%n", Math.max(2.3, 12.7));
+      System.out.printf("Math.max(2.3, 11.7) = %f%n", Math.max(2.3, 11.7));
       System.out.printf("Math.max(-2.3, -12.7) = %f%n", Math.max(-2.3, -12.7));
       System.out.printf("Math.min(2.3, 12.7) = %f%n", Math.min(2.3, 12.7));
       System.out.printf("Math.min(-2.3, -12.7) = %f%n", Math.min(-2.3, -12.7));
       System.out.printf("Math.pow(2.0, 7.0) = %f%n", Math.pow(2.0, 7.0));
       System.out.printf("Math.pow(9.0, 0.5) = %f%n", Math.pow(9.0, 0.5));
       System.out.printf("Math.sin(0.0) = %f%n", Math.sin(0.0));
-      System.out.printf("Math.sqrt(850.0) = %f%n", Math.sqrt(900.0));
+      System.out.printf("Math.sqrt(850.0) = %f%n", Math.sqrt(890.0));
       System.out.printf("Math.tan(0.0) = %f%n", Math.tan(0.0));
    } 
 } 

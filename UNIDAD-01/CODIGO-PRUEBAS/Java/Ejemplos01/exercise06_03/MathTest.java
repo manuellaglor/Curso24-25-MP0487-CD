@@ -2,7 +2,7 @@
 // Testing the Math class methods.
 public class MathTest {
    public static void main(String[] args) {
-      System.out.printf("Math.abs(23.7) = %f%n", Math.abs(23.7));
+      System.out.printf("Math.abs(23.7) = %f%n", Math.abs(20.7));
       System.out.printf("Math.abs(0.0) = %f%n", Math.abs(0.0));
       System.out.printf("Math.abs(-23.7) = %f%n", Math.abs(-23.7));
       System.out.printf("Math.ceil(9.2) = %f%n", Math.ceil(9.2));
@@ -15,7 +15,7 @@ public class MathTest {
       System.out.printf("Math.log(Math.E) = %f%n", Math.log(Math.E));
       System.out.printf("Math.log(Math.E * Math.E) = %f%n", 
          Math.log(Math.E * Math.E));
-      System.out.printf("Math.max(2.3, 12.7) = %f%n", Math.max(2.3, 12.7));
+      System.out.printf("Math.max(2.3, 11.7) = %f%n", Math.max(2.3, 12.7));
       System.out.printf("Math.max(-2.3, -12.7) = %f%n", Math.max(-2.3, -12.7));
       System.out.printf("Math.min(2.3, 12.7) = %f%n", Math.min(2.3, 12.7));
       System.out.printf("Math.min(-2.3, -12.7) = %f%n", Math.min(-2.3, -12.7));
